@@ -8,3 +8,4 @@ Developed a web based application to predict the chances of the outbreak of a co
 • Technologies: Python, HTML, CSS, MongoDB, PhoneGap  
 • Framework: Flask  
 • Cloud Technologies: Heroku, Amazon EC2  
+https://idspm.herokuapp.com/
